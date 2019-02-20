@@ -1,0 +1,7 @@
+The following icons are from iconfinder.com
+
+- bitbucket.svg
+- facebook.svg
+- github.svg
+- gitlab.svg
+- twitter.svg
